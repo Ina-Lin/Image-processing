@@ -1,4 +1,4 @@
-package homework2;
+package homework3;
 
 import javax.swing.JFrame;
 

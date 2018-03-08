@@ -1,4 +1,4 @@
-package homework2;
+package homework3;
 
 class Util {
 	final static int checkPixelBounds(int value){

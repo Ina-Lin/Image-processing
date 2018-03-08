@@ -1,4 +1,4 @@
-package homework2;
+package homework3;
 
 import java.awt.Color;
 import java.awt.Graphics;

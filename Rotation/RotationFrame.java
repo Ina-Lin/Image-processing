@@ -1,4 +1,4 @@
-package homework2;
+package homework3;
 
 
 import java.awt.Graphics;
@@ -66,7 +66,7 @@ public class RotationFrame extends JFrame {
 	    tfShearX.setText("0.0");
 	    tfShearY.setText("0.0");
 
-	    setTitle("Image Processing Homework 2: Rotation Transforms");
+	    setTitle("Image Processing Homework 3: Rotation Transforms");
 		
 		try {
 		    img = ImageIO.read(new File("/Users/apple/Documents/workspace/ImageProcessing/src/F16.png"));
