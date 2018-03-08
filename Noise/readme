@@ -1,0 +1,2 @@
+1.	Add Noise: 隨機增加雜訊。
+2.	Remove Noise:利用中位數濾波器方法，移除雜訊。
